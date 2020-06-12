@@ -282,10 +282,54 @@ Visit the [ Disaster Distress Helpline](https://www.samhsa.gov/disaster-prepared
 * [How to Protect Yourself](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html)
 * [Cleaning and Disinfecting Your Home](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html)
 * [Gatherings and Community Events](https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/index.html)
-## Table of Contents
+# Table of Contents
 
 
-* [Symptoms of Corona Virus](#symptoms-of-corona-virus)
-   * 
-* 
+* [Symptoms of Corona Virus](#-symptoms-of-corona-virus)
+   * [What you need to know](#-what-you-need-to-know)
+   * [Watch for symptoms](#-watch-for-symptoms)
+   * [When to seek emergency medical attention](#-when-to-seek-emergency-medical-attention)
+   * [Caring for yourself or others](#-caring-for-yourself-or-others)
+   * [More information about symptoms](#-more-information-about-symptoms)
+* [Testing](#-testing)
+  * [Testing for COVID-19](#-testing-for-covid-19)
+    * [Who should be tested](#-who-should-be-tested)
+    * [Results](#-results)
+    * [More information](#-more-information) 
+   * [Test for Current Infection](#-test-for-current-infection)
+     * [How to decide if you should get a viral test](#-how-to-decide-if-you-should-get-a-viral-test)
+     * [How to get a viral test](#-how-to-get-a-viral-test)
+     * [What to do after a viral test](#-what-to-do-after-a-viral-test)
+     * [More information](#-more-information)
+   * [Test for past infection](#-test-for-past-infection)
+    * [How to get an antibody test](#-how-to-get-an-antibody-test)
+      *  [What do your results mean?](#-what-do-your-results-mean?)
+      * [CDC's work in antibody testing](#-CDC's-work-in-antibody-testing)
+* [How it spreads](#-how-it-spreads)
+  * [Peson-to-person spread](#-person-to-person-spread)
+  * [The virus spreads easily between people](#-the-virus-spreads-easily-between-people)
+  * [The virus may be spread in other ways](#-the-virus-may-be-spread-in-other-ways)
+  * [Spread between animals and people](#-spread-between-animals-and-people)
+  * [Protect yourself and others](#-protect-yourself-and-others)
+  * [More Information](#-more-information)
+* [ Protect yourself ](#-protect-yourself)
+  * [Know how it spreads](#-know-how-it-spreads)
+  * [Everyone should](#-everyone-should)
+  * [Handwashing Resources](#-handwashing-resources)
+  * [More information](#-more-information)
+* [Social Distancing](#-social-distancing)
+   * [What is social distancing?](#-what-is-social-distancing?)
+     *  [If you have been exposed or are sick](#-if-you-have-been-exposed-or-are-sick)
+   * [why practice social distancing](#-why-practice-social-distancing)
+   * [Tips for social distancing](#-tips-for-social-distancing)
+   * [Need help? Know someone who does?](#-need-help?-know-someone-who-does?)
+   * [More information](#-more-information)
+
+
+
+
+
+
+   
+
 
