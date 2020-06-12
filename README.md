@@ -282,8 +282,10 @@ Visit the [ Disaster Distress Helpline](https://www.samhsa.gov/disaster-prepared
 * [How to Protect Yourself](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html)
 * [Cleaning and Disinfecting Your Home](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html)
 * [Gatherings and Community Events](https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/index.html)
+## Table of Contents
 
 
-
-
+* [Symptoms of Corona Virus](#symptoms-of-corona-virus)
+   * 
+* 
 
